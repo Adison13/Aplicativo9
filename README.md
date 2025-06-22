@@ -52,14 +52,13 @@ O jogo é simples, porém viciante. Ideal para testar sua agilidade.
 - Game Over
 - Histórico de Jogadas
 
-(Adicione prints aqui se quiser)
 
 ---
 
 ## 👨‍💻 Desenvolvedor
 
-- Nome: [Seu Nome Aqui]
-- RA / Matrícula: [Sua matrícula]
+- Nome: Adison de Oliveira Gontijo Magalhaes
+- RA / Matrícula: 2023201200002-7
 - Curso: Análise e Desenvolvimento de Sistemas - PUC Goiás
 
 ---
