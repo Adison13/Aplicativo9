@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Click de Ouro</string>
+    <string name="iniciar_jogo">Iniciar Jogo</string>
+    <string name="ver_historico">Ver Histórico</string>
+    <string name="pontuacao">Pontuação: </string>
+    <string name="tempo">Tempo: </string>
+    <string name="game_over">Game Over</string>
+    <string name="novo_recorde">Novo Recorde!</string>
+    <string name="jogar_novamente">Jogar Novamente</string>
+    <string name="voltar_menu">Voltar ao Menu</string>
+    <string name="sair_jogo">Sair do Jogo</string>
+    <string name="tem_certeza_sair">Tem certeza que deseja sair?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="historico">Histórico de Jogadas</string>
+</resources>

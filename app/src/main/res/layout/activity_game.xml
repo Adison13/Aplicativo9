@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF8DC">
+
+    <TextView
+        android:id="@+id/txtPontuacao"
+        android:text="Pontos: 0"
+        android:textSize="24sp"
+        android:textColor="#000"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/txtTempo"
+        android:text="Tempo: 30s"
+        android:textSize="20sp"
+        android:textColor="#FF0000"
+        android:layout_below="@id/txtPontuacao"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnClick"
+        android:text="CLICK!"
+        android:layout_centerInParent="true"
+        android:background="#FFD700"
+        android:textSize="24sp"
+        android:padding="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>
+
